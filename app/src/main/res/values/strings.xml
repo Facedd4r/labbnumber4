@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">labbnumber4</string>
+    <string name="data"> Логин %s\nПароль %s\nТеперь укажите свой день рождения:</string>
+</resources>
